@@ -18,3 +18,4 @@ py -m venv .venv
 ```
 
 Los archivos en `etapas_tdd/` representan tres momentos de una práctica TDD; se copian temporalmente a `primo.py` siguiendo la guía de capturas.
+Esta rama incorpora una mejora a la documentación del proyecto.
